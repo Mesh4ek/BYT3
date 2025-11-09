@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes.Tests", "Shapes.Tests\Shapes.Tests.csproj", "{F229CF16-4CA4-4C2A-81FD-4C680C49295E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Tests", "Calculator.Tests\Calculator.Tests.csproj", "{00A795DB-F78F-4764-BAEA-69C4BE78F0EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{68F793A4-159A-4B72-866B-A94974FD180C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{F229CF16-4CA4-4C2A-81FD-4C680C49295E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F229CF16-4CA4-4C2A-81FD-4C680C49295E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F229CF16-4CA4-4C2A-81FD-4C680C49295E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A795DB-F78F-4764-BAEA-69C4BE78F0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A795DB-F78F-4764-BAEA-69C4BE78F0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A795DB-F78F-4764-BAEA-69C4BE78F0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A795DB-F78F-4764-BAEA-69C4BE78F0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F793A4-159A-4B72-866B-A94974FD180C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F793A4-159A-4B72-866B-A94974FD180C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F793A4-159A-4B72-866B-A94974FD180C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F793A4-159A-4B72-866B-A94974FD180C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
